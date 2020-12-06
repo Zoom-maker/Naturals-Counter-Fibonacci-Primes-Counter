@@ -22,6 +22,6 @@ def primos(x):
 
     next()    
 
-num = int(input("Ingrese un numero a evaluar: "))
+num = int(input("Ingrese hasta que numero desea mostrar los numeros primos: "))
 
 primos(num)
