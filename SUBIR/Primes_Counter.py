@@ -18,8 +18,6 @@ def primos(x):
 
             cont = 0
 
-        print("Fin")
-
     next()    
 
 num = int(input("Ingrese hasta que numero desea mostrar los numeros primos: "))
